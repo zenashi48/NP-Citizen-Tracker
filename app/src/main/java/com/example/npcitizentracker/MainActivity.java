@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        new CountDownTimer(10000,1000) {
+        new CountDownTimer(3000,1000) {
             public void onTick(long millisecondsUntilFinished){
                 Log.i("timer", String.valueOf((int) millisecondsUntilFinished/1000));
             }
