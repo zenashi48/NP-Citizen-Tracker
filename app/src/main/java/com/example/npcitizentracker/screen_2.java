@@ -22,11 +22,11 @@ import java.util.concurrent.TimeUnit;
 public class screen_2 extends AppCompatActivity {
     public static final String code="com.we.will send.codeto next intent";
     public void getOTPfunc(View view) {
-        TextView number=findViewById(R.id.phoneNumberText);
-        String number_string=number.getText().toString();
-        number_string=number_string.replace(" ","");
+        TextView gmail=findViewById(R.id.phoneNumberText);
+        String gmail_string=gmail.getText().toString();
+//        number_string=number_string.replace(" ","");
         Intent screen3=new Intent(this,Login.class);
-        screen3.putExtra(code,number_string);
+//        screen3.putExtra(code,number_string);
         startActivity(screen3);
     }
 

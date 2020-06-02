@@ -46,8 +46,7 @@
             android:layout_marginEnd="20dp"
             android:ems="10"
             android:hint="Enter  you email id"
-            android:inputType="phone"
-            android:maxLength="14" />
+            android:inputType="textEmailAddress" />
 
         <Button
             android:id="@+id/button"
@@ -59,7 +58,7 @@
             android:layout_marginRight="20dp"
             android:background="@drawable/custom_button_round"
             android:onClick="getOTPfunc"
-            android:text="Get OTP Paassword"
+            android:text="Get OTP Password"
             android:textColor="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
