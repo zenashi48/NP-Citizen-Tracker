@@ -1,0 +1,2 @@
+rootProject.name='NP CITIZEN TRACKER'
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NP CITIZEN TRACKER</string>
+    <string-array name="locations">
+        <item>Home</item>
+        <item>Medical facility</item>
+        <item>Others</item>
+    </string-array>
+</resources>

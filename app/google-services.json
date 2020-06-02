@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753814232584",
+    "firebase_url": "https://np-citizen-tracker-97c90.firebaseio.com",
+    "project_id": "np-citizen-tracker-97c90",
+    "storage_bucket": "np-citizen-tracker-97c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753814232584:android:fc2871122f70c445c07bbd",
+        "android_client_info": {
+          "package_name": "com.example.npcitizentracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753814232584-aljdcj5g70o3mt488ck1n4v877optj12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVlvZsw6C9DZXLrRTgvlmlYKBKeqZj7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753814232584-aljdcj5g70o3mt488ck1n4v877optj12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
